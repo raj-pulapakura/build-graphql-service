@@ -1,0 +1,30 @@
+{
+  "name": "build-graphql-service",
+  "version": "1.0.0",
+  "description": "Build a beautiful, organised, microservice-like Graphql API with a single command!",
+  "bin": "index.js",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dialto1/build-graphql-service.git"
+  },
+  "author": "Raj Pulapakura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dialto1/build-graphql-service/issues"
+  },
+  "homepage": "https://github.com/dialto1/build-graphql-service#readme",
+  "keywords": [
+    "typescript",
+    "graphql",
+    "typeorm",
+    "microservice"
+  ]
+}
