@@ -1,6 +1,6 @@
 {
   "name": "build-graphql-service",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build a beautiful, organised, microservice-like Graphql API with a single command!",
   "bin": "index.js",
   "dependencies": {
